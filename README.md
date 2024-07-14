@@ -1,6 +1,8 @@
 # database-sharding-poc
-## Introduction
 
+![image](https://github.com/user-attachments/assets/e51158d0-ba1a-45ba-a80a-1fe4b779d8d0)
+
+## Introduction
 This project is a simple proof of concept to demonstrate the concepts of "database sharding" and "consistent hashing". It provides a basic implementation to help understand how data can be distributed across multiple database instances using consistent hashing to achieve sharding.
 
 ## Docker
