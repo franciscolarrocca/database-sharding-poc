@@ -26,6 +26,12 @@ cd app
 go mod tidy
 ```
 
+- Run application:  
+```bash
+cd app
+go run .
+```
+
 ### CURLs
 
 - POST
